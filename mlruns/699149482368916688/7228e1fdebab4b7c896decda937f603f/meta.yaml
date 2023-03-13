@@ -1,0 +1,15 @@
+artifact_uri: /home/anitha512/MLFlow/pydataberlin-2019/mlflow_tutorial/mlruns/699149482368916688/7228e1fdebab4b7c896decda937f603f/artifacts
+end_time: 1678682886221
+entry_point_name: ''
+experiment_id: '699149482368916688'
+lifecycle_stage: active
+run_id: 7228e1fdebab4b7c896decda937f603f
+run_name: legendary-snake-100
+run_uuid: 7228e1fdebab4b7c896decda937f603f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678682880045
+status: 3
+tags: []
+user_id: anitha.pulicherl

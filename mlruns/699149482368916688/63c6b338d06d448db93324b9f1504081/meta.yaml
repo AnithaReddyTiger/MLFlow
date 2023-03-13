@@ -1,0 +1,15 @@
+artifact_uri: /home/anitha512/MLFlow/pydataberlin-2019/mlflow_tutorial/mlruns/699149482368916688/63c6b338d06d448db93324b9f1504081/artifacts
+end_time: 1678682892606
+entry_point_name: ''
+experiment_id: '699149482368916688'
+lifecycle_stage: active
+run_id: 63c6b338d06d448db93324b9f1504081
+run_name: adorable-panda-951
+run_uuid: 63c6b338d06d448db93324b9f1504081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678682886409
+status: 3
+tags: []
+user_id: anitha.pulicherl

@@ -1,0 +1,15 @@
+artifact_uri: /home/anitha512/MLFlow/pydataberlin-2019/mlflow_tutorial/mlruns/699149482368916688/e1c7ff4d524f48ddb6943fcb0b7d1aef/artifacts
+end_time: 1678682879881
+entry_point_name: ''
+experiment_id: '699149482368916688'
+lifecycle_stage: active
+run_id: e1c7ff4d524f48ddb6943fcb0b7d1aef
+run_name: vaunted-hog-141
+run_uuid: e1c7ff4d524f48ddb6943fcb0b7d1aef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1678682868523
+status: 3
+tags: []
+user_id: anitha.pulicherl
